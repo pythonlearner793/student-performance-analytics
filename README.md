@@ -27,7 +27,8 @@ The dataset `students.csv` contains 15 student records. Important columns includ
 *   Identification of the top-performing student(s).
 
 # 7. Output/Screenshots
-*(Attach screenshots of the terminal output here showing the successful execution of main.py)*
+<img width="893" height="548" alt="image" src="https://github.com/user-attachments/assets/db845554-8ac5-450d-9f81-f4c2cff75ec7" />
+
 
 # 8. Final Outcome
 The project successfully loaded raw student data, processed it accurately without errors, and produced a clear terminal report displaying class averages, subject performance, pass/fail counts, and identified the top performer. The dataset is properly structured and understandable without needing to inspect the code.

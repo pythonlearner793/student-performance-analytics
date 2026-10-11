@@ -1,0 +1,16 @@
+Student_ID,Name,Department,Math_Marks,Science_Marks,English_Marks,Attendance_Pct
+S101,Aarav Sharma,Computer Science,85,90,88,95
+S102,Vivaan Singh,Electrical,45,50,42,75
+S103,Aditya Patel,Mechanical,78,82,75,88
+S104,Vihaan Kumar,Computer Science,92,95,89,98
+S105,Arjun Rao,Civil,35,40,38,65
+S106,Sai Krishna,Electrical,65,70,68,82
+S107,Ayaan Desai,Mechanical,88,85,90,91
+S108,Krishna Iyer,Computer Science,95,98,92,99
+S109,Ishaan Reddy,Civil,55,60,58,78
+S110,Shaurya Gupta,Electrical,72,75,70,85
+S111,Atharv Joshi,Mechanical,48,45,50,72
+S112,Aaradhya Nair,Computer Science,89,88,91,94
+S113,Ananya Menon,Civil,38,42,40,68
+S114,Diya Verma,Electrical,81,79,85,89
+S115,Isha Das,Mechanical,91,93,88,96

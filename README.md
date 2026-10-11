@@ -39,4 +39,4 @@ The project successfully loaded raw student data, processed it accurately withou
 *   **Learning:** Gained practical experience integrating Pandas DataFrames with NumPy numerical calculations and utilizing loops safely within data analysis workflows.
 
 # 10. GitHub Repository
-**Repository Link:** [Insert your copied GitHub Repository URL here before final submission]
+**Repository Link:** https://github.com/pythonlearner793/student-performance-analytics.git

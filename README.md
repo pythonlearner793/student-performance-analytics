@@ -1,6 +1,6 @@
 # 1. Project Title
 Student Performance Analytics System
-**Student Details:** Jaskaran Singh Randhawa
+**Student Name:** Jaskaran Singh Randhawa
 
 # 2. Objective
 The objective of this project is to build a Python-based Student Performance Analytics System. It solves the problem of manually calculating student grades and performance metrics by automating the reading, processing, and analysis of student records to output meaningful results like pass/fail statistics and top performers.
@@ -26,8 +26,9 @@ The dataset `students.csv` contains 15 student records. Important columns includ
 *   Subject-wise performance breakdowns.
 *   Identification of the top-performing student(s).
 
-# 7. Output/Screenshots
-*(Attach screenshots of the terminal output here showing the successful execution of main.py)*
+# 7. Output
+<img width="893" height="548" alt="output" src="https://github.com/user-attachments/assets/e7bacddf-fe6a-4d98-844f-c83ea7750623" />
+
 
 # 8. Final Outcome
 The project successfully loaded raw student data, processed it accurately without errors, and produced a clear terminal report displaying class averages, subject performance, pass/fail counts, and identified the top performer. The dataset is properly structured and understandable without needing to inspect the code.

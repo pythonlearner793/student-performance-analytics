@@ -11,7 +11,7 @@ The objective of this project is to build a Python-based Student Performance Ana
 *   **NumPy:** Used for numerical operations like calculating total sums and means across subjects.
 
 # 4. Dataset Description
-The dataset `students.csv` contains 15 student records. Important columns include `Student_ID`, `Name`, `Department`, subject marks (`Math_Marks`, `Science_Marks`, `English_Marks`), and `Attendance_Pct`. Realistic values were used for all fields.
+The dataset `students.csv` contains 15 student records. Important columns include `Student ID`, `Name`, `Department`, subject marks (`Math Marks`, `Science Marks`, `English Marks`), and `Attendance`. Realistic values were used for all fields.
 
 # 5. Implementation
 1.  **Data Loading:** Read `students.csv` using `pd.read_csv()`.

@@ -1,5 +1,5 @@
 # 1. Project Title
-Student Performance Analytics System
+Student Performance Analytics System.
 **Student Details:** Jaskaran Singh Randhawa
 
 # 2. Objective

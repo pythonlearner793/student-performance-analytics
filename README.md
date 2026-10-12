@@ -1,6 +1,6 @@
 # 1. Project Title
 Student Performance Analytics System.
-**Student Details:** Jaskaran Singh Randhawa
+**Student Name:** Jaskaran Singh Randhawa
 
 # 2. Objective
 The objective of this project is to build a Python-based Student Performance Analytics System. It solves the problem of manually calculating student grades and performance metrics by automating the reading, processing, and analysis of student records to output meaningful results like pass/fail statistics and top performers.

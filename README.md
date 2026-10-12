@@ -14,9 +14,9 @@ The objective of this project is to build a Python-based Student Performance Ana
 The dataset `students.csv` contains 15 student records. Important columns include `Student ID`, `Name`, `Department`, subject marks (`Math Marks`, `Science Marks`, `English Marks`), and `Attendance`. Realistic values were used for all fields.
 
 # 5. Implementation
-1.  **Data Loading:** Read `students.csv` using `pd.read_csv()`.
-2.  **Processing:** Used `np.sum()` and `np.mean()` along axis 1 to calculate `Total_Marks` and `Average_Marks`.
-3.  **Functions & Loops:** Created reusable functions `assign_grade` and `check_pass_fail` in a separate module. Used a `for` loop with `df.iterrows()` to apply these functions to every student record based on their specific average and attendance.
+1.  **Data Loading:** Read `students.csv` using `pd.read csv()`.
+2.  **Processing:** Used `np.sum()` and `np.mean()` along axis 1 to calculate `Total Marks` and `Average Marks`.
+3.  **Functions & Loops:** Created reusable functions `assign grade` and `check pass fail` in a separate module. Used a `for` loop with `df.iterrows()` to apply these functions to every student record based on their specific average and attendance.
 4.  **Analysis:** Used NumPy's `np.max()`, `np.min()`, and `np.mean()` to extract overall class metrics. Filtered the DataFrame to count passing students and locate top performers.
 
 # 6. Key Features

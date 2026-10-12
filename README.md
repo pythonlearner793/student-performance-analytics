@@ -26,7 +26,7 @@ The dataset `students.csv` contains 15 student records. Important columns includ
 *   Subject-wise performance breakdowns.
 *   Identification of the top-performing student(s).
 
-# 7. Output/Screenshots
+# 7. Output
 <img width="893" height="548" alt="image" src="https://github.com/user-attachments/assets/db845554-8ac5-450d-9f81-f4c2cff75ec7" />
 
 
